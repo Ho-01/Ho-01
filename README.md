@@ -19,7 +19,6 @@
 ![Static Badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)
 
-### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ho-01&theme=radical)
 
