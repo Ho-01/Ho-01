@@ -19,9 +19,13 @@
 ![Static Badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ho-01&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical" alt="github-stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ho-01&theme=radical" alt="github-streak" width="49%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical" alt="most-used-languages" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ho-01&theme=radical" alt="contribution-graph" width="49%">
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical)
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ho-01&theme=radical)
 
