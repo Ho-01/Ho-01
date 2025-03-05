@@ -10,6 +10,7 @@ Tools I use :
 ![Static Badge](https://img.shields.io/badge/InteliJ_IDEA-darkblue?style=flat&logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/github-black?style=flat&logo=github)
 ![Static Badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)
+![Static Badge](https://img.shields.io/badge/figma-orange?style=flat&logo=figma&logoColor=white)
 
 
 ### 📊 GitHub Stats
