@@ -24,8 +24,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ho-01&theme=radical" alt="github-streak" width="51%">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical" alt="most-used-languages" width="30%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ho-01&theme=radical" alt="contribution-graph" width="69%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical" alt="most-used-languages" width="35%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ho-01&theme=radical" alt="contribution-graph" width="64%">
 </p>
 
 
