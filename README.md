@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### Things I code with : 
+### 🌱 Things I code with : 
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
 
-### Tools I use : 
+### 🌱 Tools I use : 
 ![Static Badge](https://img.shields.io/badge/InteliJ_IDEA-darkblue?style=flat&logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/github-black?style=flat&logo=github)
 ![Static Badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)
