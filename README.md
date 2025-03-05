@@ -11,6 +11,8 @@ Tools I use :
 ![Static Badge](https://img.shields.io/badge/github-black?style=flat&logo=github)
 ![Static Badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)
 ![Static Badge](https://img.shields.io/badge/figma-orange?style=flat&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Amazon%20EC2-orange?style=flat&logo=amazonec2&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Amazon%20RDS-blue?style=flat&logo=amazonrds&logoColor=white)
 
 
 ### 📊 GitHub Stats
