@@ -20,8 +20,8 @@
 ![Static Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical" alt="github-stats" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ho-01&theme=radical" alt="github-streak" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical" alt="github-stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ho-01&theme=radical" alt="github-streak" width="51%">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical" alt="most-used-languages" width="30%">
