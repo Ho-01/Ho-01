@@ -12,7 +12,6 @@
 ![Static Badge](https://img.shields.io/badge/Amazon%20EC2-orange?style=flat&logo=amazonec2&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon%20RDS-blue?style=flat&logo=amazonrds&logoColor=white)
 
-
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ho-01&theme=radical)
