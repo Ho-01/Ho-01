@@ -15,6 +15,7 @@
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/InteliJ%20IDEA-black?style=flat&logo=intellijidea&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/vs_code-black?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)
