@@ -32,3 +32,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ho-01&theme=onedark&no-bg=true&no-frame=true&column=10&margin-w=8&margin-h=8" />
 </div>
+
+![solved.ac tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01)
