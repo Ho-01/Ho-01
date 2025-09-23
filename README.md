@@ -35,5 +35,7 @@
 
 ![solved.ac tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01)
 
-![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ho_01)
+![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ho_01&theme=dark)
+
+![mazandi profile](https://mazandi.herokuapp.com/api?handle=ho_01&theme=dark)
 
