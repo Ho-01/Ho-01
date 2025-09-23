@@ -33,9 +33,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ho-01&theme=onedark&no-bg=true&no-frame=true&column=10&margin-w=8&margin-h=8" />
 </div>
 
-![solved.ac tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01)
-
-![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ho_01&theme=dark)
-
-![mazandi profile](https://mazandi.herokuapp.com/api?handle=ho_01&theme=dark)
-
+<div align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01" />
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ho_01" />
+</div>
