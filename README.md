@@ -29,4 +29,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ho-01&theme=radical" alt="contribution-graph" width="64%">
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ho-01)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ho-01&theme=dracula&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</div>
