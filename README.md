@@ -30,5 +30,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ho-01&theme=dracula&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ho-01&theme=onedark&no-bg=true&no-frame=true&column=10&margin-w=8&margin-h=8" />
 </div>
