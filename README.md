@@ -30,8 +30,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ho-01&theme=onedark&no-bg=true&no-frame=true&column=10&margin-w=8&margin-h=8" width="35%"/>
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01" width="64%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ho-01&theme=onedark&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8" width="64%"/>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01" width="35%"/>
 </div>
 
 <div align="center">
