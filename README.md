@@ -15,6 +15,8 @@
 ![Static Badge](https://img.shields.io/badge/Amazon%20RDS-black?style=flat&logo=amazonrds&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=4479A1&labelColor=000&style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?logo=nginx&logoColor=009639&labelColor=000&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED&labelColor=000&style=flat-square)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?logo=docker&logoColor=2496ED&labelColor=000&style=flat-square)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?logo=elasticsearch&logoColor=FFFFFF&labelColor=000&style=flat-square)
 ![Logstash](https://img.shields.io/badge/-Logstash-000?logo=logstash&logoColor=FFFFFF&labelColor=000&style=flat-square)
 ![Kibana](https://img.shields.io/badge/-Kibana-000?logo=kibana&logoColor=FFFFFF&labelColor=000&style=flat-square)
