@@ -10,8 +10,14 @@
 ![Static Badge](https://img.shields.io/badge/Spring-black?style=flat&logo=spring&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=springboot&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/Spring%20Security-black?style=flat&logo=springsecurity&logoColor=green)
+![Gradle](https://img.shields.io/badge/-Gradle-000?logo=gradle&logoColor=02303A&labelColor=000&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Amazon%20EC2-black?style=flat&logo=amazonec2&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Amazon%20RDS-black?style=flat&logo=amazonrds&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=4479A1&labelColor=000&style=flat-square)
+![Nginx](https://img.shields.io/badge/-Nginx-000?logo=nginx&logoColor=009639&labelColor=000&style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?logo=elasticsearch&logoColor=FFFFFF&labelColor=000&style=flat-square)
+![Logstash](https://img.shields.io/badge/-Logstash-000?logo=logstash&logoColor=FFFFFF&labelColor=000&style=flat-square)
+![Kibana](https://img.shields.io/badge/-Kibana-000?logo=kibana&logoColor=FFFFFF&labelColor=000&style=flat-square)
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/InteliJ%20IDEA-black?style=flat&logo=intellijidea&logoColor=blue)
