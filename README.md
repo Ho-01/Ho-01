@@ -24,7 +24,6 @@
 ### Tools
 ![Static Badge](https://img.shields.io/badge/InteliJ%20IDEA-black?style=flat&logo=intellijidea&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode&logoColor=007ACC&labelColor=000&style=flat-square)
-![Static Badge](https://img.shields.io/badge/VS_Code-black?style=flat&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000?logo=openai&logoColor=74AA9C&labelColor=000&style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000?logo=githubcopilot&logoColor=FFFFFF&labelColor=000&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=orange)
