@@ -25,7 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical" alt="github-stats" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical" alt="Top Languages" width="30%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical" alt="github-stats" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical" alt="Top Languages" width="28%" >
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01" width="33%"/>
 </p>
