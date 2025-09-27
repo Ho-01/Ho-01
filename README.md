@@ -1,10 +1,6 @@
 # Ho-01
 
 ### Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical" alt="most-used-languages" width="35%">
-</p>
-
 ![Static Badge](https://img.shields.io/badge/Java-black?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQL-black?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=Black)
@@ -30,11 +26,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ho-01&show_icons=true&theme=radical" alt="github-stats" width="48%">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01" width="49%"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ho-01&theme=radical" alt="contribution-graph" width="64%">
-</p>
-
-<div align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01" width="35%"/>
-</div>
