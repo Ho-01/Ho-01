@@ -25,7 +25,19 @@
 ![Static Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ho-01&count_private=true&show_icons=true&theme=radical" alt="github-stats" width="37%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-01&count_private=true&layout=compact&theme=radical" alt="Top Languages" width="28%" >
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01" width="32%"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Ho-01&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    width="37%"
+  >
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ho-01&layout=compact&theme=radical"
+    alt="Top Languages"
+    width="28%"
+  >
+  <img
+    src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ho_01"
+    alt="Solved.ac Profile"
+    width="32%"
+  >
 </p>
